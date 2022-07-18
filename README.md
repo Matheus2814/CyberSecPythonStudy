@@ -1,2 +1,2 @@
 # PythonforCybersecurity
-Python for cybersecurity repo
+Python for cybersecurity course repo
